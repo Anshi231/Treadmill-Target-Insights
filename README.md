@@ -2,7 +2,7 @@ Consider, StrideSphere is a manufacturer of treadmills and their market research
 
 We will also perform descriptive analytics to help build profiles for each StrideSphere treadmill model. The team will sift through relevant tables and visualizations (two way contingency tables, in addition) to study important trends. Moreover, marginal and conditional probabilities will be calculated to reveal verifiable insights and implications for business strategy.
 
-AeroFit Treadmill Portfolio:
+StrideSphere Treadmill Portfolio:
 
 - KP281: Entry-level treadmill; $1,500
 
@@ -10,4 +10,4 @@ AeroFit Treadmill Portfolio:
 
 - KP781: Flagship treadmill with premium features, $2,500
 
-The aim of this project is to gather actionable insights that will help AeroFit better align their treadmill products with what their customers want and need.
+The aim of this project is to gather actionable insights that will help StrideSphere better align their treadmill products with what their customers want and need.
